@@ -31,8 +31,8 @@ than O(nm) complexity.
 This implementation uses the simple heuristic when choosing the header nodes by choosing the lowest number of notes and if the header nodes have an equal number of nodes, it chooses the nodes non-deterministically.
 
 
-References:
+References:  
 Knuth, D.E., 2000. Dancing links [Online]. arXiv.org. Available from:
-https://arxiv.org/abs/cs/0011047 [Accessed 9 March 2023].
+https://arxiv.org/abs/cs/0011047 [Accessed 9 March 2023].  
 Harrysson, M. and Laestander, H., 2014. Solving Sudoku efficiently with Dancing Links [Online].
 www.semanticscholar.org. Available from: https://www.semanticscholar.org/paper/SolvingSudoku-efficiently-with-Dancing-Links-HarryssonLaestander/5f59ccf7aeb1357ad3cf976555e32654f682dbed [Accessed 10 March 2023].
