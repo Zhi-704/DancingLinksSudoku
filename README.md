@@ -1,5 +1,5 @@
 # DancingLinksSudoku
-Uses Algorithm X/Dancing Links technique to solve sudoku puzzles. Accepts a 9x9 np array as input.
+Uses Algorithm X/Dancing Links technique to solve sudoku puzzles. Accepts a 9x9 np array as input. Converts first to exact cover matrix then doubly linked list is constructed from the matrix. Algorithm X then used to solve doubly linked lists and is converted back to a 9x9 np array solution.
 
 General description lifted from report:
 
